@@ -1,0 +1,15 @@
+{
+    "result": [
+        {
+            "dashboard_id": 58,
+            "dashboard_code": "insured_terrestrial_transport_declaration",
+            "title": "Tránsito Terrestres",
+            "icon": "drive_eta",
+            "color": "info",
+            "iconaction": "edit",
+            "action": "Solicitar",
+            "posturl": "/app/declaraciones/transporte_terrestre/",
+            "data_form_type": "identification_form_all_types"
+        }
+    ]
+}
